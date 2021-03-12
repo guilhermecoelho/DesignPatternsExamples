@@ -1,3 +1,3 @@
 # DesignPatternsExamples
 
-Some examples of implementation of differents patterns
+Simple examples of implementation of differents patterns
