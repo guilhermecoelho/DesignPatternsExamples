@@ -49,7 +49,7 @@ namespace DesignPatternsExamples
         }
     }
 
-    public class Test
+    public class TestFactoryPattern
     {
         [Theory]
         [InlineData(0, "male")]
